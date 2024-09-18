@@ -771,3 +771,34 @@
 // }
 
 
+//One row numbers one row Alphabets
+#include <stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//     int num;
+//     printf("Enter number of rows:-");
+//     scanf("%d", &num);
+//     for (int i = 1; i <= num; i++)
+//     {
+//         for (int j = 1; j <= num - i; j++)
+//         {
+//             printf(" ");
+//         }
+
+//         int a = 65;
+//         for (int k = 1; k <= (2 * i - 1); k++)
+//         {
+//             if (i % 2 != 0)
+//             {
+//                 printf("%d", k);
+//             }
+//             else
+//                 printf("%c", a);
+//                 a++;
+//         }
+//         printf("\n");
+//     }
+//     return 0;
+// }
+
+
